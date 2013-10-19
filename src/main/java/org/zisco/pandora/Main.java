@@ -7,7 +7,7 @@ package org.zisco.pandora;
 
 
 import org.apache.log4j.BasicConfigurator;
-import org.apache.log4j.PropertyConfigurator;
+//import org.apache.log4j.PropertyConfigurator;
 
 /**
  *
